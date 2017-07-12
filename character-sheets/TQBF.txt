@@ -1,0 +1,74 @@
+TQBF
+
+Normals
+
+1 - Here we Go
+Quick scratch that mildly advances forward (mid)
+F1 - Go Go Go!
+Quick punch (mid)
+B1 - No Hesitation
+Moderately fast scratch that staggers (mid)
+D1 - Pop
+Low Scratch (low)
+2 - Rip Roar Power
+Two-handed downwards scratch (overhead)
+F2 - Crush Everyone
+TQBF swings a bat, staggering an enemy if they are hit (high)
+B2 - Line Out
+TQBf pokes a bat down at a low angle (low)
+D2 - In For More
+TQBF swings a bat like a golf club, knocking up the enemy if they are hit (low)
+3 - Back Up
+TQBF does a low kick to the foot and moves slightly back (low)
+F3 - I'm a Fucking Car
+TQBF does a straight kick outwards. If an airborne enemy who wasn't stunned more than once is hit, they are restanded
+D3 - Thank You
+TQBF kicks both feet out quickly, then retracts them
+4 - Brain Specialist
+TQBF kicks high up (high)
+F4 - Lifeline
+TQBF kicks at the chest area, staggering a hit enemy (high)
+B4 - Dragon Whips His Tail
+TQBF skips at the enemy, landing a total of 4 attempted hits (mid, high, mid, high)
+D4 - Break
+Quick kick to the shatterable shins (low)
+
+Jump-Ins
+
+J1 - Just Hesitation
+TQBF raises a fist into the air
+J2 - Jelly Donuts
+TQBF puts his bat outwards
+J3 - Knocked The Fuck Out
+TQBF does the splits in midair
+J4 - Please
+TQBF kicks straight outwards
+
+Combos
+
+F2, 1: TQBF swings the bat again (High)
+F2, 1, D2: TQBF Swings the bat straight down, ending in a hard knockdown for a hit enemy (overhead)
+B4, F4: TQBF folds his arms at his chest and does two straight kicks foward (mid) -> (mid)
+B4, F4, 2: TQBF does a jump, then headbutts downwards, knocking up a hit enemy (overhead)
+B4, F4, B1: TQBF spins backwards and throws a bat at the enemy (mid)
+F1, F1: TQBF adds in another jab (mid)
+F1, F1, 1, 1: TQBF does two more punches (mid) -> (high)
+B1, 1: TQBF hits the bat again at knee level (mid)
+B1, 1, U2: TQBF hits again at chest level (high)
+2, B2: (2 must connect) TQBF throws a bat behind him which wraps around the screen, knocking the enemy closer (mid)
+F3, D4: (F3 must connect and have restanded an airborne opponent) TQBF smashes down with a bat, causing a low knockup (overhead)
+F3, D4, 3 + 4: (F3, D4 must have connected) TQBF throws the enemy onto the ground and backflip kicks them across the screen, wrapping them to directly behind him
+
+Grab
+
+G - Hewwo :3: TQBF hit the shins with a bat, knocking the opponent to their knees, then hits the ground with his bat twice. Afterwards, he swings it, knocking the opponent back.
+
+Specials
+
+BF2: TQBF grabs two bats and swings them towards his center, then outwards. If this is meter burned, the second hit is instead a hit to the head that stuns the enemy. (mid) -> (mid), MB (mid) -> (high)
+DF3: TQBF pole vaults using his bat to launch himself forwards and upwards. If meter burned, he also holds out his bat while in midair, and a hit enemy is knocked up. MB (overhead)
+BF1 :TQBF pushes forward with his bat, which pushes him back and staggers a hit enemy. If meter burned, TQBF then moves back and throws the bat. (mid), MB (mid) -> (mid)
+DF2: TQBF does a quick flurry of 5 punches. If meter burned, it ends in a grab where TQBF bear hugs the enemy, then drops them in front of him. (mid) -> (mid) -> (high) -> (mid) -> (high). MB (mid) -> (mid) -> (high) -> (mid) -> (high) -> (grab)
+BF4 (Cancel DB): TQBF rushes forward, sprinting on all fours. If meter burned, TQBF ignores damage while sprinting. (n/a)
+DB1: TQBF feints, and if an enemy hits with a mid, high, or non jump-in overhead while this is active, they are put into a grab where TQBF dodges, then hits from above with a bat. If meter burned, this knocks them up. (overhead)
+DB3: TQBF pole vaults backwards using his bat. If meter burned, he gains invulnerability while preparing the move. (n/a)

@@ -1,0 +1,65 @@
+Command - Name: Type, Damage, Damage on block, Startup, Active Franes, Recovery, Block Advantage
+
+Darius
+
+Normals
+1 - Lesson: Mid, 1.75, 0.1, 8, 3, 10, -3
+An underhanded punch
+B1 - 0G: High, 2.50, 0.25, 15, 5, 5, -7
+Darius spins in a circle with an outstretched arm
+D1 - Interceptor: Mid, 1.00, 0.05, 6, 3, 4
+A low slap to the knee
+2 - Event Horizon: High, 2.00, 0.15, 10, 6, 7, 5
+A quick head butt
+F2 - D/1993 F2: Overhead, 3.00, 0.25, 17, 7, 2, -9
+Darius breaks a capsule over the opponent's head
+B2 - Newtonian Flaw: Mid, 1.25, 0.05, 6, 3, 3, 2
+A quick elbow jab
+D2 - Halley's Comet: Mid, 3.00, 0.20, 13, 5, 4, -10
+Darius winds up an uppercut and on the way to crouching, grabs a capsule. If the uppercut hits, the capsule in fling forward and crashes onto the ground. Otherwise it shatters on impact
+3 - Right Osiris: Mid, 1.75, 0.10, 8, 7, 5, -3
+A quick short hop with a low kick. Advances forward
+F3 - Texture: High, 1.75 x2, 0.15 x2, (10, 6, 5), (7, 6, 5), -10
+Darius rises up with a knee kick, then leads in with his other foot, pushing off with a backflip. If the second hit connects, it pushes down into a hard knockdown for a short distance
+D3 - MECO: Low, 1.50, 0.10, 7, 2, 3, 0
+A capsule falls out of Darius' pants leg and shatters
+4 - Windowsill: Darius lifts his leg and stomps down as a portal is created slightly above knee level
+F4 - Future Perfect: Mid, 1.50, 0.10, 10, 6, 3, -6
+Darius skids on the ground, advancing forward
+B4 - Infinite Proxy: Low, 1.00, 0.05, 8, 2, 3, -4
+Darius does the splits, pushing back the opponent
+D4 - Catching Up: Low, 0.50, 0.05, 6, 2, 4, -3
+Darius does a quick kick to the shins
+
+Jump-ins
+J1 - Welcome Home: Overhead, 4.50, 0.8, 4, 25, 3, -9
+Darius holds out a capsule
+J2 - Have You Been to the Tower?: Overhead, 7.00, 1.25, 7, 20, 5, -12
+Darius hold out both fists
+J3 - Figure it Out: Overhead, 7.75, 1.50, 7, 15, 6, -13
+Darius T-Poses
+J4 - Underground Garden: Overhead, 5.00, 1.00, 6, 30, 6, -15
+Darius holds his feet in front of him and downwards, and holds his arms to his sides
+
+Combos
+
+4, B3: Darius steps up again and stomps down again, hitting the enemy and pushing them closer (mid)
+4, B3, 1 + 2: Darius holds the enemy upon his palm, then blasts them with a capsule, propelling them back (grab)
+F2, 3: Another capsule falls out of Darius' pants leg, staggering the opponent (low)
+F2, 3, 2: Darius puts out his arms and fired two capsules, knocking the opponent up (high)
+B4, F3: Darius cartwheels into the opponent (overhead)
+2, D3: Darius slides under the enemy (low)
+F4, B2: Darius pushes backwards, moving back (mid)
+F4, B2, 2 + 3: (F4, B2 must connect) Darius drops through a portal to behind the opponent, then grabs them and throws them down into a portal with puts them in front of him (grab)
+F3, D3: (F3 must connect) Blasts two capsules from pant legs, causing a hard knockdown (low)
+F4, B2, D2: Darius tips over into a portal and drops on top of the opponent (overhead)
+
+Specials
+
+DB3: Darius slides backwards on his back. If performed with a meter burn a charged capsule falls out of his pants leg at the location he rolled from, which knocks up opponents. (n/a) (Meter Burn: Low)
+BF1: Darius smashes a capsule on both sides of an opponent's head, dealing damage and restanding them. If meter burned, the opponent is also stunned. If opponent was already previously stunned, the next attacks performed on them knocks them down. (High)
+DD1: For 5 seconds, the frame startup of all of Darius' moves are decreased by 25%, but after those 5 seconds Darius is slowed for 2.5 seconds.
+BF2: Darius winds up a rolled capsule and it rolls along the floor, staggering hit enemies. A meter burned capsule also increases frame startup of enemies hit with it by 33% for 4 seconds (non-stackable)
+DF2: Darius shoots a capsule out of his sleeve, which bounces upon the ground in an arc. A hit enemy is staggered slightly. A meter burned capsule explodes upon impact, dealing extra damage and knocking up the opponent.
+DB4: Darius falls back into a portal, appearing behind the opponent. meter burning this gives Darius immunity to damage while this ability takes place and causes him to attempt to grab the enemy upon leaving the portal. On grabbing the opponent, he throws them forward into a portal which causes them to appear behind him. He then grabs behind him and throws the opponent down in front of himself, knocking them up.
+BF4: Darius flying jump kicks forward. If it connects with a grounded opponent, they are subjected to a hard knockdown. If this connects with an airborne opponent, Darius grabs them and throws them backwards into a portal and catches them as they come from in front of him, then throws them across the map. If meter burned, a grounded opponent will instead fly through a portal and appear directly behind you, and an airborne opponent will be smashed into the ground repeatedly instead, then slid a medium distance away.

@@ -1,0 +1,62 @@
+Azrael - 1700, 1700, 1350, 1100
+Gunslinger, excels at midrange
+
+Normals
+
+1 - Arg: Azrael does a punch forward. (mid)
+F1 - __init__: Azrael punches forward with a pistol in hand (high)
+B1 - Knockout: Azrael punches forward in an arc with an outstretched pistol. (mid)
+D1 - Swipe: Azrael punches low at the shins. (low)
+2 - Return: Azrael's mask moves out of his skeleton for a second, then returns. An enemy hit with this is staggered. (high)
+F2 - Azrael hammers down an overhead slam punch. (overhead)
+B2 - Blammo: Azrael fires a short range blast from his pistol that staggers an opponent if hit. (mid)
+D2 - Showstopper: Azrael does a quick uppercut with a pistol in hand. Upon completing it he throws the pistol up to a low height and catches it as it lands. (mid)
+3 - Don't Blink: Azrael shoots an eye laser a small amount forward before he blinks and it disappears. (high)
+F3 - Azrael does an arced high kick starting from towards the background. (high)
+B3 - Azrael looks downwards and shoots an eye laser for a short distance before he blinks and it disappears. (mid)
+D3 - Blorg: Azrael fires eye lasers at the opponent's feet, tripping them up. (low)
+4 - Simplicity: Azrael does a high kick. (high)
+F4 - Azrael slides a short amount forward on his back. (low)
+B4 - Azrael pushes in front of him, propelling him back. An enemy hit with this is staggered. (mid)
+D4 - Inhumane: Azrael does a shin kick what a monster. (low)
+
+Jump-Ins
+
+J1 - Azrael crouches in midair and hold out both fists
+J2 - Azrael tilts backward slightly in the air and holds out his guns
+J3 - Azrael holds out his head. An enemy hit with this is in the air flies back into a hard knockdown
+J4 - Azrael holds out a leg
+
+Combos
+F4, U2: (F4 must connect) Azrael takes out both of his laser pistols and fires, knocking back the enemy. (high)
+B4, 1: Azrael fires a quick shot from his laser pistol. (mid)
+F1, D1: Azrael jumps in the air and does an arced overhead slamma jamma punch. (overhead)
+F2, 1, 1: Azrael fires two quick laser shots from a laser pistol. (high) -> (high)
+B2, 2: Azrael fires another short range blast. (high)
+B2, 2, 2: Azrael fires a third short range blast. (mid)
+B2, 2, 2, D2: Azrael fires a final short range blast and blows off the steam from the laser pistol. (low)
+D1, D3: Azrael flawlessly moves from a shin punch to a shin kick. (low)
+B1, F1: Azrael spins again and does an arc pistol hit. (mid)
+B1, F1, 3 + 4: Azrael does a grab where he kicks down the opponent, then fires two laser pistols long beams at them, then uses them to drag the enemy across the arena. (grab)
+2, F2: (2 must connect) Azrael fires an eye laser forward, putting the enemy into a hard knockdown. (high)
+2, U3: Azrael does a backflip, knocking the opponent up if they were crouching or not blocking. (mid)
+2, B2: Azrael pulls the enemy towards him. (mid)
+2, B2, 1 + 2: Azrael does a grab where his pulls the enemy's face into his mask, which deals continuous damage, then eye laser blasts them, pushing the back into a medium distance hard knockdown.
+
+Abilities
+BF1 - Straight Pistol: Azrael fires a laser pistol in front of him. Meter burning this causes the beam to become a ray that propels Azrael slightly backwards and knocks down hit enemies. (high)
+DD1 - Gun Stance: Azrael enters a defensive stance in which he can enter multiple attacks. Meter burning this causes Azrael to absorb the first source of damage that hits him while in gun stance or an attack from gun stance. (n/a)
+	1: Azrael fires his laser pistol directly down in front of himself (Low)
+	2: Azrael dodges a projectile that would have hit him (n/a)
+	3: Azrael fires eye lasers up at the sky. A second later, a laser beam comes from above and knocks up hit opponents. Causes Gun Stance to take 5 seconds to cool down. (Overhead)
+	4: Azrael counters a mid or high attack. He grabs the enemy's shoulder, breaks their elbow with his other arm, then throws them behind him to a close distance by their wrist. (Grab)
+	BB: Azrael cancels gun stance and dashes back
+	FF: Azrael cancels gun stance and dashes forward
+BF1 - Dual Dazed: In the air, Azrael shoots two laser pistols forward, one after the other, then throws them behind him. Meter Burning this causes the beams to become rays that causes azrael to roll backwards and stuns hit enemies, and afterwards, they are subject to a hard knockdown. (Mid)
+DB2 - Shatterfoil: Azrael's mask shatters and he becomes 50% faster for 3 seconds. After this resolves it is put on a seven second cooldown. (n/a) 
+BF2 - Conceal: Azrael gains a protective shield around his mask that rises from his neck for a second. If a high projectile hits Azrael while this is active, it is reflected back. If meter burned, this shield lasts for 5 seconds instead. (n/a) 
+DB3 - Revel: Azrael fires an eye laser near the enemy's feet, which staggers them if hit. If meter burned, the laser then drags up, knocking a hit enemy up. (Low) (DF3), MB (Low) -> (Low) -> (Mid) -> (mid) -> (mid) -> (high) -> (high)
+DF1 - Marked: Azrael stabs with a laser pistol's bayonet. If meter burned he then fires it, putting the enemy into a hard knockdown if hit. (mid)
+
+Grab
+Blaster: Azrael headbutts the enemy into a hard knockdown, then fires lasers from his eyes, pushing the enemy back to a medium range

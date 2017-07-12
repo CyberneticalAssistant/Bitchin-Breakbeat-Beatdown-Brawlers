@@ -1,0 +1,54 @@
+Mayhem
+
+1650 ATK, 1650 MAG, 1350 DEF, 1150 HP
+Close range combo stunner, ability heavy
+
+Normals
+1 - Jabberoni: Mayhem does a quick jab (high)
+F1 - Rolling Punch: Mayhem rolls back a punch and delivers it (mid)
+B1 - Slap: Mayhem spins in a circle and delivers a backhanded slap (high)
+D1 - Poke: Mayhem does a quick low punch (low)
+2 - Ouch: Mayhem bites forward (high)
+F2 - Body Slam: Mayhem advances a great deal forward and body slams the opponent, staggering on a hit (mid)
+B2 - Tail Swipe: Mayhem hits with her tail (mid)
+D2 - Uppercut Thing: Mayhem does a straight up simple uppercut (mid)
+3 - Oof: Mayhem does two straight kicks. (mid) -> (high)
+F3 - Mayhem does a straight kick (mid)
+B3 - Trip Up: Mayhem does a leg shimmy, which leads into her kicking the opponent's shins (low)
+D3 - Oops: Mayhem falls down onto the shins of the opponent, knocking them down if hit. (low)
+4 - Spin kick: Mayhem outstretches her leg and spins on her other, dealing three hits (mid) -> (mid) -> (mid)
+F4 - aaaaaaaaaaaaaaa: Mayhem does a big old swoop with her tail (high)
+B4 - Oh Dang: An overhead tail swish (overhead)
+D4 - Mandatory Shin kick: Boy howdy a shin kick (low)
+
+Jump-Ins
+J1 - Mayhem extends out a fist (overhead)
+J2 - Mayhem holds out her guitar (overhead)
+J3 - Mayhem puts her tail underneath her in the air (overhead)
+J4 - Mayhem assumes a seated position in the air (overhead)
+
+Combos
+2, F2 - Om: Mayhem does another bite (high)
+2, F2, D2 - Nom: Mayhem does a third bite holy fuck (mid)
+F1, 1 - pew pew bang: Mayhem throw out another rolling punch (mid)
+F1, 1, 2, 1 - brbrbrbrbrbrbr: Mayhem rolls out two more punches (mid) -> (mid)
+F1, 1, 2, 1, 2, 2 - RRRRRRRRrrrrrrrr: Mayhem stop rolling out punches oh god (mid) -> (mid)
+4, D3 - Stop: Mayhem does some splits for the quality mixups (low)
+4, D3, F2 - Bowowowwwwww: Mayhem hits with her guitar, then pushes it up from below her to restand. (mid)
+F2, B1 - Curtain Call or Something Clever: Mayhem pulls the opponent back in with her guitar damn (mid)
+1, 1 - Fists of Furry: Mayhem punches a second time real fast like (mid)
+1, 2 - Blammo: Mayhem throws a sick nasty headbutt (high)
+1, 2, B3 - Return to Sender: Mayhem kicks the opponent towards her (low)
+F3, F1 - Spicy Boy: Mayhem punches forward powerfully (mid)
+1, 2, B4, B4 - Fishnet: Mayhem slashes twice with her tail (mid)
+
+Grab
+Tuning: Mayhem whacks the opponent with her guitar three times, starting from the front of the screen. On the last hit, the enemy is knocked back and the guitar is thrown into the background.
+
+Specials
+DB2 - Guitar thing: Knockup swing of a guitar. If meterburned, Mayhem hits again when they are at mid height, wrapping them around the screen. (mid)
+BF3 - Dash: Low dash where Mayhem melds into the ground and moves forward fast. If meterburned, Mayhem is immune to damage for a significant amount of time, and on hit, Mayhem knocks the opponent up. (low)
+DB1 - Scoop: Mayhem grabs low and flips a crouching opponent into the air. If meterburned, this becomes a grab where Mayhem grabs them out of the air and bounces them off of the ground, returning them to being knocked up. (mid), MB (mid) -> (grab)
+BF2 - Slice: Mayhem slices forward with her guitar, going through enemies that are not blocking and staggering them. Meter burning this after the opponent is staggered causes a slash line to appear where you slashed, causing them to slowly fall over while still being able to be attacked. (Mid), MB (mid) -> (mid)
+DB4 - Cancel: Mayhem stops whatever combo she is doing and is immediately able to start a new one. This cannot be used more than once per successive string of attacks. If meter burned, you are still able to use the non-meter burned version once. If Mayhem is in a low position when this is activated she immediately stands back up. (n/a)
+(Midair) DD1 - Blasted: Mayhem blasts a soundwave below her that creates an area of effect. In this area, enemies cannot 'wake up' from being knocked down with specials. Meter Burning this makes enemies inside the area 25% slower instead. This ability takes a while to cool down. (n/a)
